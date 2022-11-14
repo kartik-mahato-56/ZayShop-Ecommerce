@@ -1,0 +1,67 @@
+Laravel B1 Group Questions(10*1)[Total merks 50][Time 1Day]
+
+
+1.Command to install laravel project?[1]
+a)composer create-project laravel/laravel myproject.
+b)composer new-project laravel/laravel myproject.
+c)composer create-project new laravel/laravel myproject.
+d)None of these.
+2.Command to rollback all migrations operations?[1]
+a)php artisan migrate:reset.
+b)php artisan migration:reset.
+c)php artisan reset.
+d)php artisan reset:migration.
+3) The vendor directory contains in laravel?[1]
+a)Bootstrap dependencies.
+b)Laravel dependencies.
+c)Composer dependencies.
+d)None of these.
+4)Which of the folloiwing file is used to register newly created middleware?[1]
+a)middlware.
+b)kernel.
+c)config.
+d)setmiddleware.
+5)What can be defined as a class of elements in which each element has a unique name to that associated class?[1]
+a)Routing
+b)Cookie
+c)Namespaces
+d)Request
+6)Which variable is used to collect form data sent with both the GET and POST methods?[1]
+a)$_REQUEST
+b)$_BOTH
+c)$REQUEST
+d)$BOTH
+7)When you _______ an Access table from a SQL Server, SSMA restores the original Access table and its data?[1]
+a)unlink
+b)import
+c)link
+d)all of the mentioned
+8)Which operator is used to compare a value to a specified list of values?[1]
+a)BETWEEN
+b)ANY
+c)IN
+d)ALL
+9)Which of the following function of Array object adds one or more elements to the end of an array and returns the new length of the
+ array?[1]
+a)pop()
+b)push()
+c)join()
+d)map()
+10)Interpolation of variable in laravel done using?[1]
+a)compact
+b){{}}
+c)helpers
+d)none of the above
+11.Differentiate between require and include?[3]
+12.Explain laravel request life cycle?[3]
+13.What is eager loading and lazy loading?[3]
+14.Laravel ORM vs Query Builder explain?[3]
+15.What is dependency injection  in Laravel?[3]
+16.Integrate any of the html template and show products which will be handled by admin. Products will have its category and sub category. Admin will add products with images (multiple images) from the admin section. 
+Users can select the product categories and sub-categories and view the product list under them.
+The list can be searched or sorted by price. 
+Clicking any product name will show the product details. Clicking the product image will show the image in a popup box - enlarged. 
+Admin panel will have login with proper validation, profile update, logout. 
+Website must contain at least 3 pages (Homepage, product list, product details). 
+Menus, Categories and Subcategories will be dynamic. [25] 
+
